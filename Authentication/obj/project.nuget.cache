@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nMyM7rEqLvpXifaROMEJ+/acHxao/p1O3IU97FdDeY12bv8aRbYNQx/TlPyy7cLIYeAkDyUG2TvZhuDXrUu4LQ==",
+  "dgSpecHash": "L0N/sYJprw4ysEFvYlDj68euZFnu7yBm85Yw1vrXDE64AtfdSBa0wU9VyWSx5hkX5+sIhr9y7GR7ihCA2WKpLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\perna\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
+  "projectFilePath": "C:\\Users\\perna\\OneDrive\\Documents\\GitHub\\Authentication\\Authentication\\Authentication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
